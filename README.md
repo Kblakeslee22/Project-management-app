@@ -1,6 +1,4 @@
 # Project-management-app
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/your-username/project-management-app.git
-git push -u origin main
+git checkout -b feature/dashboard
+git checkout -b feature/stakeholder-management
+git checkout -b feature/backend
